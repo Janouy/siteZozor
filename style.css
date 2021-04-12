@@ -52,8 +52,11 @@
     margin-bottom: 0px;
     
 }
+.loggo
+{
 
-
+    border: none;
+}
 
 h5
 {
@@ -88,12 +91,17 @@ color: maroon;
 text-decoration: underline;
 }
 
+.fleche
+{
+    border: none;
+}
 .separateur
 {
     background-image: url("images/separateur.png");
     width: 900px;
     height: 3px;
     margin-top: 0px;
+    
  }
 
 
@@ -149,4 +157,202 @@ text-decoration: underline;
     background: url("images/fond_degraderouge.png");
     border-radius: 5px/10px;
     margin-right: 5px;
+}
+
+.logo2
+{
+    float: left;
+    margin-left: 00px;
+    border: none;
+}
+
+h2
+{
+    margin-top: 15px;
+   padding-bottom: 5px;
+    padding-left: 50px;
+    font-family: "dayrom";
+    opacity: 0.8;
+    font-size: 1.2em;
+}
+
+#bloctexte
+{
+    display: flex;
+    width: 800px;
+    margin: auto;
+    
+}
+
+.bloctexte2
+{
+  margin-right: 10px;
+  text-align: justify;
+
+}
+
+.bulle
+{
+
+width: 50px;
+margin-top: 160px;
+
+}
+
+.bulle2
+{
+    border: none;
+    margin-right: -1px;
+}
+
+
+.bloctexte3
+{
+
+width: 2500px;
+height: 400px;
+background-color: #6e6962;
+color: #DFE0E5;
+text-shadow: 2px 2px 2px black;
+border-radius: 8px;
+}
+
+h3
+{
+    text-align: center;
+}
+
+.imgzozor
+{
+
+    text-align: center;
+}
+
+.logos
+{
+    text-align: center;
+}
+article p
+{
+      text-align: justify;
+      padding-left: 10px;
+      padding-right: 10px;
+
+}
+
+.separateur3
+{
+    display:flex;
+    height: 20px;
+   
+
+    
+ }
+
+ .icone
+ {
+    width: 55px;
+    height:50px;
+    background-image: url("images/ico_top.png");
+    background-repeat: no-repeat;
+    margin-top: 0px;
+ }
+
+ .separateur2
+{
+    background-image: url("images/separateur.png");
+    width: 428px;
+    height: 3px;
+    margin-top: 0px;
+  
+ }
+
+ #footer
+ {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5px;
+    width: 800px;
+    margin: auto;
+    font-size: 0.7em;
+    font-family: dayrom;
+    font-weight: bold;
+ }
+
+
+
+ .puces
+ {
+    
+    display: flex;
+
+ }
+
+ h4
+ {
+
+    font-size: 15px;
+    opacity: 0.8;
+   
+
+
+ }
+li
+{
+
+    padding-left: 0px;
+    color: maroon;
+    font-weight: bold;
+    background-image: url("images/ico_liensexterne.png");
+    background-repeat: no-repeat;
+    padding-left: 10px;
+    list-style-type: none;
+
+
+}
+
+
+.titre4
+{
+    padding-left: 40px;
+    margin-bottom: 5px;
+}
+
+img
+{
+
+    border: 1px black solid;
+    border-radius: 3px;
+}
+
+.facebook
+{
+
+border: none;
+}
+
+.vimeo 
+{
+    border: none;
+}
+
+.twitter 
+{
+    border: none;
+}
+
+.flickr 
+{
+    border: none;
+}
+
+.rss
+{
+    border: none;
+}
+
+a
+{
+    text-decoration: none;
+    color: maroon;
 }
